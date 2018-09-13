@@ -3,9 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TakeTaxi.iml" filepath="$PROJECT_DIR$/TakeTaxi.iml" />
-      <module fileurl="file://E:\git\mygithub\TakeTaxi\TakeTaxi.iml" filepath="E:\git\mygithub\TakeTaxi\TakeTaxi.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://E:\git\mygithub\TakeTaxi\app\app.iml" filepath="E:\git\mygithub\TakeTaxi\app\app.iml" />
     </modules>
   </component>
 </project>
