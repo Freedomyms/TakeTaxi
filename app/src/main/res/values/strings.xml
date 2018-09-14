@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TakeTaxi</string>
+   <!-- AndroidManifest-->
+    <string name="gd_key">8c9d44f2de51d378ab857d7418549ea7</string>
+    <!--WelcomeActivity-->
+    <string name="didi_travel">滴滴出行</string>
+    <string name="didi_travel_prompt">滴滴一下  美好出行</string>
 </resources>

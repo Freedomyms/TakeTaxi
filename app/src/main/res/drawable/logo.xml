@@ -4,6 +4,7 @@
         android:viewportWidth="50.0"
         android:viewportHeight="72.0">
     <path
+        android:name="bar2"
         android:strokeColor="#eb8b24"
         android:strokeWidth="10"
         android:pathData="M5,10,v50,L20,60,A1,1,0,0,0,20,15,L0,15 "/>
